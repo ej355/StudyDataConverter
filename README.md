@@ -15,3 +15,14 @@ If you want to use custom headers, they will need to correspond to the data in t
 "AB, CD, EF, GH"
 
 The file will appear in the same directory as the above files unless you specify otherwise.
+
+# Example
+Input file name: results.txt
+
+Output file name: results.csv
+
+Would you like to use default headers? (y/n) y
+
+
+
+
